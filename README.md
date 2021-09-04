@@ -1,5 +1,5 @@
-# mathsaurus
-privacy policy for mathsaurus app
+# MathGurus
+privacy policy for MathGurus app
 
 
 
